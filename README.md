@@ -32,10 +32,5 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 ## Author
 - Overgrown
 
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## License
 This project is MIT Licensed
